@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1078414905517",
+    "project_id": "godrej-c4cfd",
+    "storage_bucket": "godrej-c4cfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078414905517:android:8c8d5cad373eb943327624",
+        "android_client_info": {
+          "package_name": "com.mobiquest.godrej"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078414905517-8sg81csth5mfbs4nno5e407o2tjacfrr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbuxNZGQRmr2Ha6lv8rpCab4WYsM2cc9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078414905517-8sg81csth5mfbs4nno5e407o2tjacfrr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
